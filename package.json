@@ -1,0 +1,22 @@
+{
+  "name": "dydai",
+  "version": "1.0.0",
+  "description": "First clone/download the repo in your machine.",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://Akki4@bitbucket.org/Akki4/dydai.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/Akki4/dydai#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0"
+  }
+}
